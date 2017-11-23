@@ -88,7 +88,7 @@ footer {
 
 /* Write your CSS here */
 
-b {
+p:nth-of-type(1)::first-letter {
   text-decoration-style: none;
   font-style: normal;
   font-size: 5rem;

@@ -87,3 +87,8 @@ footer {
 */
 
 /* Write your CSS here */
+
+b {
+  text-decoration-style: none;
+  font-style: normal;
+}

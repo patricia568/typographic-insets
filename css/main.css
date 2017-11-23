@@ -102,4 +102,9 @@ b {
 
 figure {
   float: right;
+  width: 300px;
+  border-top: solid 3px #333;
+  border-bottom: solid 3px #333;
+  padding: 6px;
+  margin-left: .2em;
 }

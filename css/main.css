@@ -88,7 +88,7 @@ footer {
 
 /* Write your CSS here */
 
-p:nth-of-type(1)::first-letter {
+main.wrapper:nth-of-type(1)::first-letter {
   font-style: normal;
   font-size: 5rem;
   background-color: #666;
@@ -112,6 +112,7 @@ figure {
 
 figcaption {
   font-style: italic;
+  font-size: .875rem;
 }
 
 blockquote {
@@ -121,4 +122,5 @@ blockquote {
   width: 300px;
   border-top: solid 3px #333;
   border-bottom: solid 3px #333;
+  color: #666;
 }
